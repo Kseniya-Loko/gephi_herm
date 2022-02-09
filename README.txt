@@ -9,3 +9,9 @@ The InteractiveVis project of the Oxford Internet Institute with funding by JISC
 More information about the project is available on the project blog:
 http//blogs.oii.ox.ac.uk/vis/
 
+1. Была найдена карта-схема Государственного Эрмитажа в хорошем качестве.
+2. По графической схеме в EasyLinavis были проведены связи по каждому из этажей и переходам с этажа на этаж. В результате была получена csv-таблица.
+3. В QGIS была перенесена карта-схема здания и по ней с помощью инструментов программы были прочерчены расстояния в условных единицах.
+4. Расстояния были внесены в столбец Weight (обозначение веса ребра)
+5. Готовая таблица была загружена в Gephi и визуализирована. 
+6. Ссылка на полученный сайт https://kseniya-loko.github.io/gephi_herm/ 
